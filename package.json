@@ -1,0 +1,23 @@
+{
+  "name": "b3s",
+  "version": "1.0.0",
+  "description": "Basic tree Structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plutomusang/B3S.git"
+  },
+  "keywords": [
+    "Tree",
+    "Structure"
+  ],
+  "author": "Arthur Bryan Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plutomusang/B3S/issues"
+  },
+  "homepage": "https://github.com/plutomusang/B3S#readme"
+}
